@@ -10,4 +10,4 @@ app.get("/data", (req, res) => {
     res.json({ message: "success", data: jsonData });
 });
 
-app.listen(process.env.port || 8000);
+app.listen(process.env.PORT || 8000);

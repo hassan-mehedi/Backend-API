@@ -4,7 +4,12 @@
             "name": "Mehedi Hassan",
             "age": 34,
             "Address": "Dhaka"
+        },
+        {
+            "name": "Mehedi Hassan",
+            "age": 34,
+            "Address": "Dhaka"
         }
     ],
-    "Author": "Mehedi"
+    "author": "Mehedi"
 }
